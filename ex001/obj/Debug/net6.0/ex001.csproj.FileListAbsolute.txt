@@ -1,0 +1,15 @@
+/Users/kirillsysoev/Documents/Privat/GeekBrain/C#/example_01/examles/ex001/bin/Debug/net6.0/ex001
+/Users/kirillsysoev/Documents/Privat/GeekBrain/C#/example_01/examles/ex001/bin/Debug/net6.0/ex001.deps.json
+/Users/kirillsysoev/Documents/Privat/GeekBrain/C#/example_01/examles/ex001/bin/Debug/net6.0/ex001.runtimeconfig.json
+/Users/kirillsysoev/Documents/Privat/GeekBrain/C#/example_01/examles/ex001/bin/Debug/net6.0/ex001.dll
+/Users/kirillsysoev/Documents/Privat/GeekBrain/C#/example_01/examles/ex001/bin/Debug/net6.0/ex001.pdb
+/Users/kirillsysoev/Documents/Privat/GeekBrain/C#/example_01/examles/ex001/obj/Debug/net6.0/ex001.csproj.AssemblyReference.cache
+/Users/kirillsysoev/Documents/Privat/GeekBrain/C#/example_01/examles/ex001/obj/Debug/net6.0/ex001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirillsysoev/Documents/Privat/GeekBrain/C#/example_01/examles/ex001/obj/Debug/net6.0/ex001.AssemblyInfoInputs.cache
+/Users/kirillsysoev/Documents/Privat/GeekBrain/C#/example_01/examles/ex001/obj/Debug/net6.0/ex001.AssemblyInfo.cs
+/Users/kirillsysoev/Documents/Privat/GeekBrain/C#/example_01/examles/ex001/obj/Debug/net6.0/ex001.csproj.CoreCompileInputs.cache
+/Users/kirillsysoev/Documents/Privat/GeekBrain/C#/example_01/examles/ex001/obj/Debug/net6.0/ex001.dll
+/Users/kirillsysoev/Documents/Privat/GeekBrain/C#/example_01/examles/ex001/obj/Debug/net6.0/refint/ex001.dll
+/Users/kirillsysoev/Documents/Privat/GeekBrain/C#/example_01/examles/ex001/obj/Debug/net6.0/ex001.pdb
+/Users/kirillsysoev/Documents/Privat/GeekBrain/C#/example_01/examles/ex001/obj/Debug/net6.0/ex001.genruntimeconfig.cache
+/Users/kirillsysoev/Documents/Privat/GeekBrain/C#/example_01/examles/ex001/obj/Debug/net6.0/ref/ex001.dll
